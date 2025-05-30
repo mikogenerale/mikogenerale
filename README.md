@@ -13,6 +13,8 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 - 📫 How to reach me: Feel free to connect with me via mikognrl@gmail.com or on hhtps://www.linkedin.com/in/miko-generale-353b40266
 -⚡ Fun fact: I’m love PC hardware discussions, exploring the outdoors, and hitting the road on my motorbike!
 
+---
+
 
 #### 💻 Languages
  JavaScript TypeScript HTML5 CSS3 
