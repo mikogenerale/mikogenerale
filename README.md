@@ -1,5 +1,4 @@
 ## ✨About Me ✨
-___
 
 Experienced Software Engineer with a proven track record of delivering high-quality applications. I have developed numerous projects across web, mobile, and server-side platforms. During my corporate journey, I’ve contributed to three major projects — two client-based and one internal — playing a key role in their successful delivery.
 
@@ -12,5 +11,23 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 - 🌱 I’m currently learning ReactJS + Python and FastApi
 - 💞️ I’m seeking opportunities to collaborate on engaging and innovative projects.
 - 📫 How to reach me: Feel free to connect with me via mikognrl@gmail.com or on hhtps://www.linkedin.com/in/miko-generale-353b40266
-
 -⚡ Fun fact: I’m love PC hardware discussions, exploring the outdoors, and hitting the road on my motorbike!
+
+
+# 💻 Languages
+    JavaScript TypeScript HTML5 CSS3 
+
+# 📚 Libraries / Frameworks
+    VueJS NuxtJS ReactJS React-Native TailwindCSS
+
+# 🗄️ Database and ORMs
+    PostgreSQL SQLite
+    
+# 🛠️ Backend / Runtime
+    NodeJS NitroJS H3
+
+# 🧪 Testing & Tools
+    Vitest Playwright Storybook
+    
+# 🌐 Version Control / Collaboration
+    Git GitHub Gitlab
