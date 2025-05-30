@@ -14,20 +14,20 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 -⚡ Fun fact: I’m love PC hardware discussions, exploring the outdoors, and hitting the road on my motorbike!
 
 
-### 💻 Languages
+#### 💻 Languages
  JavaScript TypeScript HTML5 CSS3 
 
-### 📚 Libraries / Frameworks
+#### 📚 Libraries / Frameworks
  VueJS NuxtJS ReactJS React-Native TailwindCSS
 
-### 🗄️ Database and ORMs
+#### 🗄️ Database and ORMs
  PostgreSQL SQLite
     
-### 🛠️ Backend / Runtime
+#### 🛠️ Backend / Runtime
  NodeJS NitroJS H3
 
-### 🧪 Testing & Tools
+#### 🧪 Testing & Tools
  Vitest Playwright Storybook
     
-### 🌐 Version Control / Collaboration
+#### 🌐 Version Control / Collaboration
  Git GitHub Gitlab
