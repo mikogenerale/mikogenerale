@@ -15,19 +15,19 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 
 
 ### 💻 Languages
-    JavaScript TypeScript HTML5 CSS3 
+ JavaScript TypeScript HTML5 CSS3 
 
 ### 📚 Libraries / Frameworks
-    VueJS NuxtJS ReactJS React-Native TailwindCSS
+ VueJS NuxtJS ReactJS React-Native TailwindCSS
 
 ### 🗄️ Database and ORMs
-    PostgreSQL SQLite
+ PostgreSQL SQLite
     
 ### 🛠️ Backend / Runtime
-    NodeJS NitroJS H3
+ NodeJS NitroJS H3
 
 ### 🧪 Testing & Tools
-    Vitest Playwright Storybook
+ Vitest Playwright Storybook
     
 ### 🌐 Version Control / Collaboration
-    Git GitHub Gitlab
+ Git GitHub Gitlab
