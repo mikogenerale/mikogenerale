@@ -22,13 +22,13 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 #### 📚 Libraries / Frameworks
  ![VueJS](https://img.shields.io/badge/VueJS-35495e?style=for-the-badge&logo=vuedotjs)
  ![NuxtJS](https://img.shields.io/badge/NuxtJS-35495e?style=for-the-badge&logo=nuxtdotjs)
- ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
- ![React Native](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2563eb?style=for-the-badge&logo=tailwindcss)
+ ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+ ![React Native](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+ ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2563eb?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### 🗄️ Database and ORMs
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
     
 #### 🛠️ Backend / Runtime
  NodeJS NitroJS H3
