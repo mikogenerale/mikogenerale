@@ -1,10 +1,10 @@
 ## ✨About Me ✨
 
-Experienced Software Engineer with a proven track record of delivering high-quality applications. I have developed numerous projects across web, mobile, and server-side platforms. During my corporate journey, I’ve contributed to three major projects — two client-based and one internal — playing a key role in their successful delivery.
+I'm an experienced Software Engineer with a proven track record of delivering high-quality applications across web, mobile, and server-side platforms. I've contributed to three major projects — two client-based and one internal — playing a key role in their successful delivery.
 
-Additionally, I have some experience developing desktop applications, including a custom Pisonet Management System that I currently use for my small business.
+I also have experience building desktop applications, including a custom Pisonet Management System I use for my small business.
 
-I'm a passionate developer dedicated to building clean, efficient, and user-friendly applications. I thrive on solving real-world problems through technology and continuously seek opportunities to learn, improve, and stay ahead in the ever-evolving tech landscape.
+I'm passionate about building clean, efficient, and user-friendly software. I enjoy solving real-world problems with technology and continuously strive to learn and grow in the ever-evolving tech landscape.
 
 
 - 🔭 I’m currently focused on enhancing my skills to write high-performance, efficient code that aligns with production best practices.
