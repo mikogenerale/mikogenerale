@@ -32,7 +32,7 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
     
 #### 🛠️ Backend / Runtime
  ![NodeJS](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- ![NitroJS](https://img.shields.io/badge/Nitro-00DC82?style=for-the-badge&logo=nitrodotjs&logoColor=white)
+ ![NitroJS](https://img.shields.io/badge/Nitro-35495e?style=for-the-badge&logo=nitrodotjs&logoColor=00DC82)
 
 #### 🧪 Testing & Tools
  Vitest Playwright Storybook
