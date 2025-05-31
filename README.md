@@ -20,16 +20,15 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 📚 Libraries / Frameworks
- VueJS NuxtJS ReactJS React-Native TailwindCSS
-
  ![VueJS](https://img.shields.io/badge/VueJS-35495e?style=for-the-badge&logo=vuedotjs)
  ![NuxtJS](https://img.shields.io/badge/NuxtJS-35495e?style=for-the-badge&logo=nuxtdotjs)
  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
  ![React Native](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS--blue?style=for-the-badge&logo=tailwindcss)
+ ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2563eb?style=for-the-badge&logo=tailwindcss)
 
 #### 🗄️ Database and ORMs
- PostgreSQL SQLite
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+ ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
     
 #### 🛠️ Backend / Runtime
  NodeJS NitroJS H3
