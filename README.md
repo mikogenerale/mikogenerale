@@ -35,11 +35,10 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
  ![NitroJS](https://img.shields.io/badge/Nitro-35495e?style=for-the-badge&logo=nitrodotjs&logoColor=00DC82)
 
 #### 🧪 Testing & Tools
- Vitest Playwright Storybook
  ![](https://img.shields.io/badge/Vitest-661AE6?style=for-the-badge&logo=vitest)
- ![](https://img.shields.io/badge/Storybook-6F2CAC?style=for-the-badge&logo=storybook)
- ![](https://img.shields.io/badge/Playwright-6F2CAC?style=for-the-badge)
-    
+ ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
+ ![Playwright](https://img.shields.io/badge/Playwright-6F2CAC?style=for-the-badge)
+
 #### 🌐 Version Control / Collaboration
  Git GitHub Gitlab
 
