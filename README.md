@@ -36,7 +36,7 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 
 #### 🧪 Testing & Tools
  ![](https://img.shields.io/badge/Vitest-661AE6?style=for-the-badge&logo=vitest)
- ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
+ ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
  ![Playwright](https://img.shields.io/badge/Playwright-6F2CAC?style=for-the-badge)
 
 #### 🌐 Version Control / Collaboration
