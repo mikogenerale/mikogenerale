@@ -20,8 +20,8 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 📚 Libraries / Frameworks
- ![VueJS](https://img.shields.io/badge/VueJS-35495e?style=for-the-badge&logo=vuedotjs)
- ![NuxtJS](https://img.shields.io/badge/NuxtJS-35495e?style=for-the-badge&logo=nuxtdotjs)
+ ![VueJS](https://img.shields.io/badge/Vue-35495e?style=for-the-badge&logo=vuedotjs)
+ ![NuxtJS](https://img.shields.io/badge/Nuxt-35495e?style=for-the-badge&logo=nuxtdotjs)
  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
  ![React Native](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2563eb?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -31,7 +31,8 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
     
 #### 🛠️ Backend / Runtime
- NodeJS NitroJS H3
+ ![NodeJS](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![NitroJS](https://img.shields.io/badge/Nitro-00DC82?style=for-the-badge&logo=nitrodotjs&logoColor=white)
 
 #### 🧪 Testing & Tools
  Vitest Playwright Storybook
