@@ -24,10 +24,9 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 
  ![VueJS](https://img.shields.io/badge/VueJS-35495e?style=for-the-badge&logo=vuedotjs)
  ![NuxtJS](https://img.shields.io/badge/NuxtJS-35495e?style=for-the-badge&logo=nuxtdotjs)
- **Status:** 🟢 Active  
-**Version:** `v1.2.3`  
-**License:** 📄 MIT  
-**Build:** ✅ Passing  
+ ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+ ![React Native](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+ ![TailwindCSS](https://img.shields.io/badge/TailwindCSS--blue?style=for-the-badge&logo=tailwindcss)
 
 #### 🗄️ Database and ORMs
  PostgreSQL SQLite
