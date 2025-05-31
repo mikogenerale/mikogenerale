@@ -36,6 +36,14 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 
 #### 🧪 Testing & Tools
  Vitest Playwright Storybook
+ ![](https://img.shields.io/badge/Vitest-661AE6?style=for-the-badge&logo=vitest)
+ ![](https://img.shields.io/badge/Storybook-6F2CAC?style=for-the-badge&logo=storybook)
+ ![](https://img.shields.io/badge/Playwright-6F2CAC?style=for-the-badge)
     
 #### 🌐 Version Control / Collaboration
  Git GitHub Gitlab
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
