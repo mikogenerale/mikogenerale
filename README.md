@@ -1,18 +1,5 @@
 ## ✨About Me ✨
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=100&color=00B8D4&random=false&width=600&height=80&lines=Hello%2C+I'm+Kent+Regiel;A+Versatile+Software+Engineer;Crafting+Scalable+%26+Efficient+Solutions" alt="Typing SVG" /></a>
-</h2>
-
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kent-regiel-buncal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kroby.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=&color=important" /></a>
-  </p>
-
-<br />
-
 Experienced Software Engineer with a proven track record of delivering high-quality applications. I have developed numerous projects across web, mobile, and server-side platforms. During my corporate journey, I’ve contributed to three major projects — two client-based and one internal — playing a key role in their successful delivery.
 
 Additionally, I have some experience developing desktop applications, including a custom Pisonet Management System that I currently use for my small business.
