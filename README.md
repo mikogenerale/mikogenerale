@@ -23,6 +23,7 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
  VueJS NuxtJS ReactJS React-Native TailwindCSS
 
  ![VueJS](https://img.shields.io/badge/VueJS-35495e?style=for-the-badge&logo=vuedotjs)
+ ![NuxtJS](https://img.shields.io/badge/NuxtJS-35495e?style=for-the-badge&logo=nuxtdotjs)
 
 #### 🗄️ Database and ORMs
  PostgreSQL SQLite
