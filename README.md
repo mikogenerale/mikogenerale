@@ -23,7 +23,7 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
  ![VueJS](https://img.shields.io/badge/VueJS-35495e?style=for-the-badge&logo=vuedotjs)
  ![NuxtJS](https://img.shields.io/badge/NuxtJS-35495e?style=for-the-badge&logo=nuxtdotjs)
  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
- ![React Native](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+ ![React Native](https://img.shields.io/badge/React_Native-blue?style=for-the-badge&logo=react&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2563eb?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### 🗄️ Database and ORMs
