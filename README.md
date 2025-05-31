@@ -24,6 +24,10 @@ I'm a passionate developer dedicated to building clean, efficient, and user-frie
 
  ![VueJS](https://img.shields.io/badge/VueJS-35495e?style=for-the-badge&logo=vuedotjs)
  ![NuxtJS](https://img.shields.io/badge/NuxtJS-35495e?style=for-the-badge&logo=nuxtdotjs)
+ **Status:** 🟢 Active  
+**Version:** `v1.2.3`  
+**License:** 📄 MIT  
+**Build:** ✅ Passing  
 
 #### 🗄️ Database and ORMs
  PostgreSQL SQLite
