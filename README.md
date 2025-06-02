@@ -11,7 +11,7 @@ I'm passionate about building clean, efficient, and user-friendly software. I en
 - 🌱 I’m currently learning ReactJS + Python and FastApi
 - 💞️ I’m seeking opportunities to collaborate on engaging and innovative projects.
 - 📫 How to reach me: Feel free to connect with me via mikognrl@gmail.com or www.linkedin.com/in/miko-generale-353b40266
-- ⚡ Fun fact: I’m love PC hardware discussions, exploring the outdoors, and hitting the road on my motorbike!
+- ⚡ Fun fact: I love PC hardware discussions, exploring the outdoors, and hitting the road on my motorbike!
 
 ---
 
